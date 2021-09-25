@@ -6,7 +6,7 @@ const int WINDOW_Y_OFFSET = 200;
 
 
 //table val
-#define PATH_TO_DATAFILE "D:/Study/5SEM/OSISP/OSISP_LAB2/assets/text_files/example_text.txt"
+#define PATH_TO_DATAFILE "../assets/text_files/example_text.txt"
 
 const int NUM_OF_ROWS = 6;
 const int NUM_OF_COLUMN = 4;
